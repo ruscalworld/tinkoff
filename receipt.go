@@ -18,10 +18,12 @@ const (
 	// Deprecated: since 1 Jan 2019 vat18 will be replaced automatically to vat20 on the side of Tinkoff bank. Use VAT20 instead
 	VAT18 = "vat18" // НДС чека по ставке 18%
 	VAT20 = "vat20" // НДС чека по ставке 20%
+	VAT22 = "vat22" // НДС чека по ставке 22%
 
 	// Deprecated: since 1 Jan 2019 vat118 will be replaced automatically to vat120 on the side of Tinkoff bank. Use VAT120 instead
 	VAT118 = "vat118" // НДС чека по расчетной ставке 18/118
 	VAT120 = "vat120" // НДС чека по расчетной ставке 20/120
+	VAT122 = "vat122" // НДС чека по расчетной ставке 22/122
 )
 
 const (
